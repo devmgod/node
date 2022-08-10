@@ -1,7 +1,6 @@
 # Node.js
 
-Node.js is an open-source, cross-platform, JavaScript runtime environment by running single thread.
-
+Node.js is an open-source, cross-platform, JavaScript runtime environment by running single thread
 For information on using Node.js, see the [Node.js website][].
 
 The Node.js project uses an [open governance model](./GOVERNANCE.md). The
